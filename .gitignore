@@ -1,0 +1,4 @@
+artifacts/
+*.msi
+*.zip
+*.tar.xz
