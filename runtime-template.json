@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "runtimeId": "pagearc-calibre",
+  "packageVersion": "9.13.0-pagearc.1",
+  "calibreVersion": "9.13.0",
+  "minimumPageArcVersion": "1.4.0",
+  "platform": "windows",
+  "architecture": "x64",
+  "archiveFileName": "PageArc.ConversionRuntime-win-x64.zip",
+  "archiveSize": 0,
+  "sha256": "",
+  "executableRelativePath": "runtime/ebook-convert.exe",
+  "sourceFileName": "calibre-9.13.0.tar.xz"
+}
